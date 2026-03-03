@@ -1,0 +1,63 @@
+{
+  "projectType": "general",
+  "projectName": "Indore Professionals",
+  "projectDescription": "A comprehensive directory of professional services including medical and legal expertise in Indore and surrounding areas.",
+  "theme": "almond",
+  "primaryColor": "#4F46E5",
+  "lightColor": "#818CF8",
+  "darkColor": "#3730A3",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Overview",
+        "pages": [
+          "introduction",
+          "about"
+        ]
+      },
+      {
+        "group": "Medical Services",
+        "pages": [
+          "medical/overview",
+          "medical/services",
+          "medical/appointments"
+        ]
+      },
+      {
+        "group": "Legal Services",
+        "pages": [
+          "legal/overview",
+          "legal/practice-areas",
+          "legal/consultation"
+        ]
+      },
+      {
+        "group": "Resources",
+        "pages": [
+          "resources/contact",
+          "resources/faq"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Medical services with 15+ years of experience",
+    "Comprehensive legal counsel",
+    "Telemedicine appointments",
+    "Family and corporate law expertise",
+    "Emergency consultations",
+    "Preventive healthcare programs"
+  ],
+  "publicApiSurface": [
+    "Dr. Kothari's Medical Practice - Complete physical examinations",
+    "Dr. Kothari's Medical Practice - Chronic disease management",
+    "Dr. Kothari's Medical Practice - Preventive healthcare",
+    "Dr. Kothari's Medical Practice - Emergency consultations",
+    "Dr. Kothari's Medical Practice - Telemedicine appointments",
+    "Attorney Singh - Family law matters",
+    "Attorney Singh - Real estate transactions",
+    "Attorney Singh - Criminal defense",
+    "Attorney Singh - Corporate law",
+    "Attorney Singh - Civil litigation"
+  ]
+}
